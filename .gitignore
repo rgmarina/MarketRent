@@ -1,0 +1,21 @@
+.DS_Store
+Thumbs.db
+
+# Исключения для IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Логи
+*.log
+
+# Кэш и временные файлы
+*.class
+*.war
+*.ear
+*.jar
+*.swp
+*.swo
+*~
